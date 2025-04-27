@@ -1,0 +1,22 @@
+{
+  "general": [
+    "usage", "guide", "tutorial", "documentation", "manual", "how to", "howto",
+    "install", "setup", "configuration", "config", "example", "demo", "sample",
+    "command", "option", "parameter", "argument", "flag", "syntax", "usage example",
+    "quick start", "getting started", "basic usage", "advanced usage",
+    "api", "function", "method", "class", "interface", "property",
+    "配置", "安装", "使用", "示例", "命令", "参数", "选项"
+  ],
+  "cli": [
+    "command line", "cli", "terminal", "shell", "bash", "zsh", "fish",
+    "flag", "option", "argument", "subcommand", "stdin", "stdout", "pipe",
+    "usage", "example", "command", "syntax", "option", "parameter"
+  ],
+  "library": [
+    "api", "function", "method", "class", "interface", "library",
+    "framework", "module", "package", "import", "require", "dependency",
+    "sdk", "component", "widget", "plugin", "extension",
+    "api reference", "developer guide", "integration", "callback", "event", "hook",
+    "接口", "函数", "方法", "类", "库", "框架", "模块", "包"
+  ]
+}
